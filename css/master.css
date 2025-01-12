@@ -33,7 +33,7 @@ h2 {
 }
 
 .description {
-    color: var(--white);
+    color: rgb(255 255 255 / 50%)
 }
 
 .social-links a {
